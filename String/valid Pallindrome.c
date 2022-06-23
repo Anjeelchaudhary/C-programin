@@ -2,7 +2,7 @@
 #include<conio.h>
 
 int main(){
-	int number,sum,remainder,temp;
+	int number,sum=0,remainder,temp;
 	printf("Enter the number : ");
 	scanf("%d",&number);
 	temp=number;
